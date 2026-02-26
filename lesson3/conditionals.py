@@ -1,4 +1,3 @@
-from floccinaucinihilipilification import number
 
 age = 18
 
