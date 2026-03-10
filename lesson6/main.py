@@ -1,4 +1,3 @@
-
 import my_math
 results = my_math.square(5)
 
