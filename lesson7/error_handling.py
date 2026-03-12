@@ -1,5 +1,3 @@
-from logging import exception
-
 try:
     result = 10 / 0
 except ZeroDivisionError:

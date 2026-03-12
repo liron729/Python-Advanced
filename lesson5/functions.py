@@ -6,4 +6,4 @@ greet()
 def greet_person(name):
     print("hello ," , name)
 
-greet_person("liron")
+greet_person("liron")  

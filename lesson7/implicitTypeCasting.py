@@ -1,5 +1,3 @@
-from uh import message
-
 x = 32
 y = 5.3
 
