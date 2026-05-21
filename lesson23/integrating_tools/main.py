@@ -8,7 +8,7 @@ def create_developer(developer: Developer):
     return {"message": "Developer created successfully", "developer": developer}
 
 @app.post("/projects/")
-def create_project(project: Project)
+def create_project(project: Project):
     return {"message": "project created successfully", "project": project}
 
 
