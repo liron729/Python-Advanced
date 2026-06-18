@@ -7,6 +7,7 @@ from database import init_db
 
 app = FastAPI()
 
+# Initialize the database
 init_db()
 
 @app.post("/items/", response_model=Item)
